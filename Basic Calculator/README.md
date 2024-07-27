@@ -6,7 +6,6 @@ A simple calculator built using HTML, CSS, and JavaScript.
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Clear function to reset the calculator.
-- Responsive design for different screen sizes.
 
 ## Technologies Used
 
